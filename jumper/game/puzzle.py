@@ -34,6 +34,6 @@ class Word:
   
   def _check_win(self):
     if '_' not in self._right_guesses:
-      print(f'{Fore.LIGHTGREEN_EX}Correct!')
+      print(f"{Fore.LIGHTGREEN_EX}Correct!")
       return 1
   
