@@ -1,7 +1,7 @@
 import random
 from colorama import Fore
 
-word = ["love", "family", "home", "smile"]
+words = ["love", "family", "home", "smile"]
 
 class Word:
   """
