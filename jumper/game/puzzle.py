@@ -22,7 +22,7 @@ class Word:
       index = 0
       for i in self._secret:
         if i == letter:
-          self._rigth_guesses[index] = letter
+          self._right_guesses[index] = letter
           index += 1
     else:
       if letter not in self._wrong_guesses:
