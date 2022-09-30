@@ -1,5 +1,5 @@
 # Jumper Game
-Jumper game is a game which the player seeks to solve a puzzle by guesting the letters of a secret word one at a time. The game is based on python <This is a learning project)
+Jumper game is a game which the player seeks to solve a puzzle by guesting the letters of a secret word one at a time. The game is based on python <This is a learning project>
 
 ## Rules
 - Need one player
