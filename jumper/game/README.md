@@ -27,3 +27,6 @@ root                    (project root folder)
     +-- puzzle.py       (words code)
     +-- parachute.py    (parachute display)
   +-- README.md         (general info)
+
+  ## Authors
+Teddy Tjoe
